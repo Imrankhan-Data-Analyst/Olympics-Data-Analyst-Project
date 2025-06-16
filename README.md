@@ -244,27 +244,29 @@
 ### jupyter notebook
 
 # 🎯 Final Takeaways
-## Three Key Discoveries:
+## Key Findings:
+## Gender Progress
 
-## Gender progress: Female participation grew 20x since 1900
+### Female athlete participation has increased 20-fold since 1900.
 
-## USA dominance: Leads in both participation (18k athletes) and golds (2.6k)
+## USA Dominance
 
-## Sport specialization: Age/physique requirements vary dramatically
+### Leads historically in total athletes (18,000+) and gold medals (2,600+).
 
-## Call to Action:
-### "Which Olympic trend surprises you most? Let's discuss! #DataOlympics"
+## Sport Specialization
 
-### https://img.shields.io/twitter/url?style=social&url=https%253A%252F%252Fgithub.com%252Fyourname%252Folympics-analysis
+### Physical/age demands vary significantly (e.g., gymnasts vs. marathon runners).
 
-# Color Palette Used:
+# Design Specifications:
+## Color Palette:
 
-## Primary: #1F77B4 (blue), #FF7F0E (orange), #2CA02C (green)
+### Primary: #1F77B4 (blue), #FF7F0E (orange), #2CA02C (green)
 
-## Accents: #D62728 (red), #9467BD (purple)
+### Accents: #D62728 (red), #9467BD (purple)
 
-# Fonts:
+# Typography:
 
 ## Headers: Bebas Neue
 
 ## Body: Open Sans
+
