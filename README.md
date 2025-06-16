@@ -239,7 +239,7 @@
 ## Try It Yourself:
 
 ### bash
-### git clone https://github.com/yourname/olympics-analysis
+### git clone https://github.com/Imrankhan-Data-Analyst/olympics-analysis
 ### pip install -r requirements.txt
 ### jupyter notebook
 
